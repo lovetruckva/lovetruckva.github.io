@@ -30,7 +30,7 @@ url: "https://lovettsvilleva.org" # the base hostname & protocol for your site, 
 github_username:  LoveTruckVA
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: minima
 plugins:
   - jekyll-feed
 
